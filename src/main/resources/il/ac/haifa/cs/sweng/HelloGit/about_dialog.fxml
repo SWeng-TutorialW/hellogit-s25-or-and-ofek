@@ -18,6 +18,9 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+  <Label
+    text="Le epic change">
+  </Label>
 
 </VBox>
 
